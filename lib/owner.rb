@@ -14,7 +14,7 @@ class Owner
     @@all
   end
   
-  
+  def say_species
 
 
 end
